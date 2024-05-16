@@ -1,3 +1,8 @@
+![image](https://github.com/vikramgunaganti7/cricket_teamDB-NxtWave-Discussion-Support/assets/121219651/ff0f7a5d-5c7e-4a23-b6bf-8f67139aa16e)
+
+
+
+
 # Cricket Team
 
 Given two files `app.js` and a database file `cricketTeam.db` consisting a table `cricket_team`.
